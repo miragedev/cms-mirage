@@ -40,7 +40,7 @@
 	<body>
 		<div class="container">
 			<div class="content">
-				<div class="title">Laravel 5 by JOOB and will</div>
+				<div class="title">Laravel 5 by helmi and will</div>
 				<div class="quote">{{ Inspiring::quote() }}</div>
 			</div>
 		</div>
