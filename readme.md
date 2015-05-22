@@ -6,7 +6,7 @@ http://laravel.com/docs/master
 
 ## and do this into www or htdocs folder
 
-https://github.com/miragedev/cms-mirage.git
+git clone https://github.com/miragedev/cms-mirage.git
 
 cd cms-mirage
 
