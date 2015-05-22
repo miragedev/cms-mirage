@@ -1,10 +1,17 @@
-First install : 
+##First install : 
+
 see here
+
 http://laravel.com/docs/master
-and do this into www or htdocs folder
+
+## and do this into www or htdocs folder
+
 https://github.com/miragedev/cms-mirage.git
+
 cd cms-mirage
+
 composer update
+
 
 
 
