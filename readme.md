@@ -1,4 +1,22 @@
+First install : 
+see here
+http://laravel.com/docs/master
+and do this into www or htdocs folder
+https://github.com/miragedev/cms-mirage.git
+cd cms-mirage
+composer update
+
+
+
+
+
+
+
+
+
 ## Laravel PHP Framework
+
+
 
 [![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
 [![Total Downloads](https://poser.pugx.org/laravel/framework/d/total.svg)](https://packagist.org/packages/laravel/framework)
